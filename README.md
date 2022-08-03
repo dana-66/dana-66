@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dana-66
-- 👀 I’m interested in space ,java and AI 
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in space,AI 
 - 📫 How to reach me insta @dana tarik
 
 <!---
