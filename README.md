@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dana-66
 - 👀 I’m interested in space,AI 
-- 📫 How to reach me insta @dana tarik
 
 <!---
 dana-66/dana-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
