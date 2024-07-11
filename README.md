@@ -3,6 +3,7 @@
 - Passionate about learning new techniques and eager for new learning opportunities with a great love for building things that make life easier and more fun.
 - i have knowledge in front end web development (still learning) :
     - html, css, JavaScript
+    - git, figma.
   beside that i have knowledge working with other programming languages such as python and java.
 
 my protfilio:
