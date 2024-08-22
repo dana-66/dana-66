@@ -4,7 +4,7 @@
 - i have knowledge in front end web development (still learning) :
     - html, css, JavaScript
     - git, figma.
-  beside that i have knowledge working with other programming languages such as python and java.
+  beside that i have knowledge in working with other programming languages such as python and java.
 
 my protfilio:
     https://danashatat.netlify.app/
