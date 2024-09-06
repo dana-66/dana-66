@@ -7,7 +7,7 @@
   beside that i have knowledge in working with other programming languages such as python and java.
 
 my protfilio:
-    https://danashatat.netlify.app/
+    https://dana-66.github.io/portofilio2024/
 
 my LinkedIn profile:
     https://www.linkedin.com/in/dana-tarik-36ba65292/
