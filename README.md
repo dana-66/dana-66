@@ -1,18 +1,14 @@
-- 👋 Hi, I’m @dana-66
-- A Computer Engineering student at IUG with an interest in web development, networks, and ways to protect them.
-- Passionate about learning new techniques and eager for new learning opportunities with a great love for building things that make life easier and more fun.
-- i have knowledge in front end web development (still learning) :
-    - html, css, JavaScript
-    - git, figma.
-  beside that i have knowledge in working with other programming languages such as python and java.
+👋 Hi, I’m @dana-66
 
-my protfilio:
-    https://dana-66.github.io/portofilio2024/
+I’m a Computer Engineering student at IUG with a strong interest in web development, networks, and cybersecurity. I am passionate about learning new techniques and always eager for new learning opportunities. I have a great love for building things that make life easier and more enjoyable.
 
-my LinkedIn profile:
-    https://www.linkedin.com/in/dana-tarik-36ba65292/
-
-<!---
-dana-66/dana-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am knowledgeable in front-end web development (still learning), with experience in:
+    - HTML
+    - CSS
+    - JavaScript
+    - Git
+    - Figma
+    
+In addition, I have experience with other programming languages, including Python and Java.
+Check out my portfolio: https://dana-66.github.io/portofilio2024/
+Connect with me on LinkedIn: https://www.linkedin.com/in/dana-tarik-36ba65292/
