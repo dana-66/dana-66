@@ -7,6 +7,6 @@ I am knowledgeable in front-end web development, with experience in:
     - Git
     - Figma
     
-In addition, I have experience with other programming languages, including Python and Java.
-Check out my portfolio: https://dana-66.github.io/portofilio2024/
+In addition, I have experience with other programming languages, including Python and Java.                                                                                                                           
+Check out my portfolio: https://dana-66.github.io/portofilio2024/                                                                                                                                                     
 Connect with me on LinkedIn: https://www.linkedin.com/in/dana-tarik-36ba65292/
