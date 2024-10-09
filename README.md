@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="45" height="30" alt="tryhackme logo"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dana-66.dana-66&left_color=midnightblue&right_color=gray"  />
 </div>
