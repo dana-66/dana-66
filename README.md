@@ -12,22 +12,17 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="45" height="30" alt="tryhackme logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dana-66.dana-66&left_color=midnightblue&right_color=gray"  />
 </div>
 ###
-<hr>
 <h1 align="center">hey there 👋</h1>
-<hr>
 ###
-
 <h5 align="left">👩‍💻  About Me <br>Welcome to my GitHub profile! I'm a passionate developer currently diving into the world of React and web development. I enjoy building projects that not only challenge my skills but also contribute to my growth as a developer. <br><br>In addition to React, I have experience with:<br><br>- **HTML5 & CSS3**: Crafting responsive and visually appealing web pages.<br>- **JavaScript**: Understanding the fundamentals and modern ES6+ features.<br>- **Git & GitHub**: Version control and collaboration on projects.<br><br>I'm always eager to learn and expand my skill set. My journey in programming started with JavaScript, and I've fallen in love with React for its component-based architecture and the way it allows for building interactive UIs.</h5>
 
 ###
 <hr>
-<p align="left">I'm a computer Engineer from Gaza<br><br>- 🔭 I’m working on graduating from IUGaza.<br>- 📚 I'm currently learning React framework.<br>- ⚡ In my free time I read and play chess/</p>
+<p align="left">I'm a computer Engineer from Gaza<br>- 🔭 I’m working on graduating from IUGaza.<br>- 📚 I'm currently learning React framework.<br>- ⚡ In my free time I read and play chess/</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 ###
