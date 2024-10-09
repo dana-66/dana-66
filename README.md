@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="45" height="30" alt="tryhackme logo"  />
 </div>
 <br>
-<div align="right" border="none">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dana-66.dana-66&left_color=midnightblue&right_color=gray"  />
 </div>
 
@@ -24,7 +24,7 @@
 <p align="left">I'm a computer Engineer from Gaza<br>- 🔭 I’m working on graduating from IUGaza.<br>- 📚 I'm currently learning React framework.<br>- ⚡ In my free time I read and play chess/</p>
 <hr>
 <h2 align="left">🛠 Language and tools</h2>
-<div align="center">
+<div align="center" border="none">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
