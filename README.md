@@ -54,8 +54,4 @@
 <hr>
 
 <h3 align="left">🥅 Learning Goals</h3>
-<hr>
-###
 <p align="left">I am continuously seeking to improve my skills and broaden my knowledge. My current learning goals include:<br><br>- Mastering React Hooks and Context API for more complex state management.<br>- Exploring TypeScript to enhance my JavaScript code with type safety.<br>- Learning about server-side rendering with Next.js.</p>
-
-###
