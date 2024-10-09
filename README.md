@@ -17,26 +17,21 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dana-66.dana-66&left_color=midnightblue&right_color=gray"  />
 </div>
-
 ###
-
+<hr>
 <h1 align="center">hey there 👋</h1>
-
+<hr>
 ###
 
 <h5 align="left">👩‍💻  About Me <br>Welcome to my GitHub profile! I'm a passionate developer currently diving into the world of React and web development. I enjoy building projects that not only challenge my skills but also contribute to my growth as a developer. <br><br>In addition to React, I have experience with:<br><br>- **HTML5 & CSS3**: Crafting responsive and visually appealing web pages.<br>- **JavaScript**: Understanding the fundamentals and modern ES6+ features.<br>- **Git & GitHub**: Version control and collaboration on projects.<br><br>I'm always eager to learn and expand my skill set. My journey in programming started with JavaScript, and I've fallen in love with React for its component-based architecture and the way it allows for building interactive UIs.</h5>
 
 ###
-
+<hr>
 <p align="left">I'm a computer Engineer from Gaza<br><br>- 🔭 I’m working on graduating from IUGaza.<br>- 📚 I'm currently learning React framework.<br>- ⚡ In my free time I read and play chess/</p>
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
 ###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -67,9 +62,8 @@
 ###
 
 <h3 align="left">🥅 Learning Goals</h3>
-
+<hr>
 ###
-
 <p align="left">I am continuously seeking to improve my skills and broaden my knowledge. My current learning goals include:<br><br>- Mastering React Hooks and Context API for more complex state management.<br>- Exploring TypeScript to enhance my JavaScript code with type safety.<br>- Learning about server-side rendering with Next.js.</p>
 
 ###
