@@ -17,15 +17,13 @@
 </div>
 
 <h1 align="center">hey there 👋</h1>
-<h3 align="left">👩‍💻  About Me </h3>
+<h2 align="left">👩‍💻  About Me </h2>
 <p>Welcome to my GitHub profile! I'm a passionate developer currently diving into the world of React and web development. I enjoy building projects that not only challenge my skills but also contribute to my growth as a developer. <br><br>In addition to React, I have experience with:<br><br>- HTML5 & CSS3: Crafting responsive and visually appealing web pages.<br>- JavaScript: Understanding the fundamentals and modern ES6+ features.<br>- Git & GitHub: Version control and collaboration on projects.<br><br>I'm always eager to learn and expand my skill set. My journey in programming started with JavaScript, and I've fallen in love with React for its component-based architecture and the way it allows for building interactive UIs.</p>
 
-###
 <hr>
 <p align="left">I'm a computer Engineer from Gaza<br>- 🔭 I’m working on graduating from IUGaza.<br>- 📚 I'm currently learning React framework.<br>- ⚡ In my free time I read and play chess/</p>
-
-<h3 align="left">🛠 Language and tools</h3>
-###
+<hr>
+<h2 align="left">🛠 Language and tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -53,8 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
-
-###
+<hr>
 
 <h3 align="left">🥅 Learning Goals</h3>
 <hr>
