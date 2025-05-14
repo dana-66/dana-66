@@ -78,6 +78,6 @@ Created for my OS course, this project taught me so much about memory management
 Feel free to explore my repos, drop a message, or collaborate on something exciting:
 
 - 💻 [GitHub Portfolio](https://github.com/dana-66)
-- 📬 [LinkedIn](#) *(link yours here if you want)*
+- 📬 [LinkedIn](https://www.linkedin.com/in/dana-tarik/)
 
 Thanks for stopping by — and happy building 🚀
