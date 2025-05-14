@@ -63,7 +63,9 @@ Created for my OS course, this project taught me so much about memory management
 
 ## 📊 GitHub Stats
 
-<div algin= "center">
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![Dana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dana-66&show_icons=true&theme=radical&hide=contribs&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dana-66&layout=compact&theme=radical&langs_count=6)  
