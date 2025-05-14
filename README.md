@@ -63,8 +63,6 @@ Created for my OS course, this project taught me so much about memory management
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![Dana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dana-66&show_icons=true&theme=radical&hide=contribs&count_private=true)  
@@ -72,6 +70,8 @@ Created for my OS course, this project taught me so much about memory management
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dana-66&theme=radical)
 
 </div>
+
+---
 
 ### 📫 Let's Connect!
 
