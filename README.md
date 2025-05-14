@@ -13,9 +13,6 @@ From designing sleek web apps with React and TailwindCSS to exploring low-level 
 [Live Demo](https://salampsresturant.netlify.app/)  
 A modern web experience for a local restaurant. I used **React**, **GSAP**, and **TailwindCSS** to build a fully responsive website with animated sections, smooth scroll interactions, and a user-friendly layout.
 
-### 🚀 CityChrono  
-> All your city needs in one place — time, weather, news, music, and a todo list.  
-
 ### 🚀 CityChrono
 > All your city needs in one place — time, weather, news, music, and a todo list.
 CityChrono lets users search for any city worldwide and get real-time weather, local news, a world clock, radio streams, and Spotify playlists — all while managing their daily tasks.  
@@ -66,7 +63,7 @@ Created for my OS course, this project taught me so much about memory management
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 ![Dana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dana-66&show_icons=true&theme=radical&hide=contribs&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dana-66&layout=compact&theme=radical&langs_count=6)  
