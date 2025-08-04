@@ -8,6 +8,17 @@ From designing sleek web apps with React and TailwindCSS to exploring low-level 
 
 ## 💻 A quick tour of my work
 
+### ✍️ Technical Articles (EN/AR)  
+> Sharing what I learn — one article at a time.  
+I write technical articles in **both English and Arabic**, covering topics I’m currently learning or find fascinating — from networking fundamentals to web security, system tools, and beyond.  
+I publish on **[Medium](https://medium.com/@danatarik66)** and share insights on **[LinkedIn](https://www.linkedin.com/in/dana-tarik/)** to help others and reflect on my own journey.  
+Topics include:  
+- Email protocols and mail servers  
+- Packet analysis and Wireshark  
+- Web development tips  
+- Networking concepts made simple
+
+
 ### 📚 CCNA Commands Sheets  
 > Bridging my web development background with my Network Engineering journey.  
 [Live Demo](https://ccnacomandhelpersheet.netlify.app/)  
