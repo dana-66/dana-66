@@ -51,7 +51,7 @@ Created for my OS course, this project taught me so much about memory management
 **Design & Prototyping**: Figma  
 **Version Control**: Git & GitHub  
 **Backend-ish**: Python, C  
-**Hardware/Networking**: VHDL, Cisco Packet Tracer  
+**Hardware/Networking**: VHDL, Cisco Packet Tracer, pNET, SonicWall, Ruijie  
 **Currently Exploring**: Networking Engineering and system-level design
 
 ---
