@@ -10,9 +10,9 @@ From designing sleek web apps with React and TailwindCSS to exploring low-level 
 
 ### 📚 CCNA Commands Sheets  
 > Bridging my web development background with my Network Engineering journey.  
-[Live Demo](https://ccnacomandhelpersheet.netlify.app/)
+[Live Demo](https://ccnacomandhelpersheet.netlify.app/)  
 I'm building structured, visually clean, and easy-to-navigate **study sheets for CCNA topics and network topics** and how to troubleshoot them — leveraging Vanila JavaScript and TailwindCSS to make networking concepts more accessible for myself and others.  
-Tech Used: JS, TailwindCSS  
+**Tech Used**: JS, TailwindCSS  
 👉 **its still a Work in progress*
 
 ### 🥘 Al Salam Restaurant  
