@@ -20,6 +20,7 @@ CityChrono lets users search for any city worldwide and get real-time weather, l
 
 ### 🌸 Bloom & Fungi
 > A charming ecommerce site for bouquets, plants, and mushrooms.
+[Live Demo](https://bloom8fungi.netlify.app/)
 Built with **React**, **Vite**, and **TailwindCSS**, this app combines aesthetic design with smooth functionality.
 
 ### 🔐 Cryptographic Coprocessor
